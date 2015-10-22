@@ -2,8 +2,8 @@
 Practice in python
 
 ##Practice
--Lambda
+- Lambda
 
 ##Scripts
-
--remove files in dir by patter
+#### remove files in dir by patter:
+-  Usage                           : removeByPattern 'dir' 'pattern'
