@@ -6,4 +6,4 @@ Practice in python
 
 ##Scripts
 #### remove files in dir by patter:
--  Usage                           : removeByPattern 'dir' 'pattern'
+Usage: removeByPattern 'dir' 'pattern'
